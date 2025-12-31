@@ -1,0 +1,7 @@
+{
+  "name": "E-com Visual Studio",
+  "description": "A professional e-commerce image suite for AI model visualization and product view generation using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
